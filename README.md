@@ -25,4 +25,4 @@ Your secret touches' sequence to show and events to hide chats are configured vi
 [xda](https://forum.xda-developers.com/t/mod-xposed-4-1-loyalty-hide-chats-in-the-telegram-messenger.4505977/) or [4pda](https://4pda.to/forum/index.php?s=&showtopic=603033&view=findpost&p=118023452)
 
 ## Author
-[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2022
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2022-2023
