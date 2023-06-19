@@ -1,4 +1,5 @@
 {
+  "comment1" : "allowed markerType's UNKNOWN (question), SUNNY (ok), CLOUD (maybe smth happening), RAIN (bad), STORM (extremely bad weather)",
   "markers": [
     {
       "coordinates": {
@@ -9,7 +10,7 @@
         "description": "point point point point point point point",
         "title": "Title"
       },
-      "markerType": "WEATHER_CLOUD"
+      "markerType": "CLOUD"
     },
     {
       "coordinates": {
@@ -36,7 +37,7 @@
         "description": "zone zone zone zone zone zone zone zone zone",
         "title": "Title Zone"
       },
-      "markerType": "WEATHER_STORM"
+      "markerType": "STORM"
     }
   ]
 }
