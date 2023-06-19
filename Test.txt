@@ -1,0 +1,42 @@
+{
+  "markers": [
+    {
+      "coordinates": {
+        "latitude": 46.48293879591542,
+        "longitude": 30.70415228531022
+      },
+      "info": {
+        "description": "point point point point point point point",
+        "title": "Title"
+      },
+      "markerType": "WEATHER_CLOUD"
+    },
+    {
+      "coordinates": {
+        "points": [
+          {
+            "latitude": 46.48193178070338,
+            "longitude": 30.733659684691023
+          },
+          {
+            "latitude": 46.480206228510546,
+            "longitude": 30.75498114027223
+          },
+          {
+            "latitude": 46.46503033867219,
+            "longitude": 30.753341474565772
+          },
+          {
+            "latitude": 46.4674591822566,
+            "longitude": 30.724099350922618
+          }
+        ]
+      },
+      "info": {
+        "description": "zone zone zone zone zone zone zone zone zone",
+        "title": "Title Zone"
+      },
+      "markerType": "WEATHER_STORM"
+    }
+  ]
+}
