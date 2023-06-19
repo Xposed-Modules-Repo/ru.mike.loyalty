@@ -1,5 +1,6 @@
 {
-  "comment1" : "allowed markerType's UNKNOWN (question), SUNNY (ok), CLOUD (maybe smth happening), RAIN (bad), STORM (extremely bad weather)",
+  "comment1" : "allowed markerType's - UNKNOWN (question), SUN (ok), CLOUD (maybe smth happening), RAIN (bad), STORM (extremely bad weather, smth terrible!)",
+  
   "markers": [
     {
       "coordinates": {
