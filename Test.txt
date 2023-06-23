@@ -1,6 +1,6 @@
 {
   "comment1" : "allowed markerType's - UNKNOWN (question), SUN (ok), CLOUD (maybe smth happening), RAIN (bad), STORM (extremely bad weather, smth terrible!)",
-  "comment2" : "all dates in format 2023-12-25 10:20:30 as yyyy-MM-dd HH:mm:ss and are optional, but created field is recommended"
+  "comment2" : "all dates in format 2023-12-25 10:20:30 as yyyy-MM-dd HH:mm:ss and are optional, but created field is recommended",
   
   "markers": [
     {
